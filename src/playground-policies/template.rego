@@ -1,4 +1,4 @@
-package untitled
+package template
 
 import input.user.attributes.properties as user_props
 
